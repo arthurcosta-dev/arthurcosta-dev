@@ -1,6 +1,6 @@
 # Hey 👋 I'm Arthur Costa
 
-I am a **Software Engineering Student at FIAP** (São Paulo, Brazil), transitioning from a solid theoretical foundation in **Computer Science**. My goal is to build scalable backend solutions and eventually relocate to **Canada (Vancouver)** or **Switzerland (Zurich/Geneva)**.
+I am a **Software Engineering Student at FIAP** (São Paulo, Brazil), transitioning from a solid theoretical foundation in **Computer Science**. My goal is to build scalable backend solutions and eventually relocate to another country.
 
 ### 🚀 About Me
 - 🎓 **Education:** Engineering Student at FIAP | Former Computer Science Student (1.5 years).
