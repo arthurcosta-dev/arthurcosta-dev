@@ -1,31 +1,24 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 I'm Arthur Costa
 
-###
+I am a **Software Engineering Student at FIAP** (São Paulo, Brazil), transitioning from a solid theoretical foundation in **Computer Science**. My goal is to build scalable backend solutions and eventually relocate to **Canada (Vancouver)** or **Switzerland (Zurich/Geneva)**.
 
-<p align="left">Meu nome é Arthur sou programador e sou de Cabo Frio</p>
+### 🚀 About Me
+- 🎓 **Education:** Engineering Student at FIAP | Former Computer Science Student (1.5 years).
+- 🐍 **Tech Stack:** Python, JavaScript, HTML5, CSS3.
+- ⚙️ **Current Focus:** Backend Development & Data Engineering.
+- 🌎 **Languages:** Portuguese (Native), **English (Fluent)**, **French (Learning/Intermediate)**.
 
-###
+### 🛠 I code with
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+</p>
 
-<h2 align="left">About me</h2>
+### 🎯 Goals for 2026
+- Master **FastAPI** for high-performance APIs.
+- Deepen my knowledge in **SQL** and Database Management.
 
-###
-
-<p align="left">✨ Programando desde 2023<br>📚 Cursando Engenharia de Software.<br>🎯 Objetivos: Ser desenvolvedor full stack<br>🎲 Fato curisoso: estudando francês</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
+---
+📫 **How to reach me:** [Link para seu LinkedIn aqui]
