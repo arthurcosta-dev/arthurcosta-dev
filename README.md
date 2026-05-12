@@ -21,4 +21,5 @@ I am a **Software Engineering Student at FIAP** (São Paulo, Brazil), transition
 - Deepen my knowledge in **SQL** and Database Management.
 
 ---
-📫 **How to reach me:** [Link para seu LinkedIn aqui]
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/arthurcosta-dev)
+]
